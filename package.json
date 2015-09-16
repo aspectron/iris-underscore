@@ -1,0 +1,19 @@
+{
+  "name": "iris-underscore",
+  "version": "0.0.1",
+  "author": {
+    "name": "ASPECTRON Inc.",
+    "email": "info@aspectron.com"
+  },
+  "description": "IRIS undercore Library",
+  "main": "iris-underscore.js",
+  "scripts": {
+  },
+  "files": [
+    "iris-underscore.js",
+    "README.md"
+  ],
+  "dependencies": {
+    "underscore": "*"
+  }
+}
